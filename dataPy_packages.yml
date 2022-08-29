@@ -1,0 +1,16 @@
+name: basicDataPy
+dependencies:
+  - numpy
+  - jupyter
+  - seaborn
+  - joblib
+  - scipy
+  - ipython
+  - scikit-learn
+  - matplotlib
+  - pip
+  - pandas
+  - statsmodels
+  - pip:
+    - umap
+    - ffmpeg-python
